@@ -13,8 +13,8 @@ Puskesmas Sidomulyo menghadapi permasalahan terkait penyusutan anggaran inventar
   Muhammad Fahrezi                          : 2309116088
 
 
-l- ink colab
-https://colab.research.google.com/drive/1R9C81bMG3UWb3MBqMJ_YWAqsEWw1NAoN?usp=sharing
+link colab
+
 - link proposal
 https://docs.google.com/document/d/1OqdJOQwJYRfjP-w5yiFPfnVlGyHx39pZ/edit?usp=sharing&ouid=116065033574500709648&rtpof=true&sd=true
 - link looker
