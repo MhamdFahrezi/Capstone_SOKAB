@@ -23,5 +23,5 @@ https://lookerstudio.google.com/s/lRZXf8aRqKw
 https://www.canva.com/design/DAGnnGwKfkg/RcQZxVGrNlNAFHYacUWanw/edit?utm_content=DAGnnGwKfkg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - dataset
   https://drive.google.com/file/d/1I5o0bzENdE_g8K9r-6XaVvWzzZCPh1-8/view?usp=sharing
-- link github
+- link github FastAPI
   https://github.com/rey1711/FastAPI.git
